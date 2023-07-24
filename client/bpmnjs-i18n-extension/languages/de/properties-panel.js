@@ -26,24 +26,24 @@ export default {
     'All': 'Alle',
     'Assignee': 'Bearbeiter',
     'assignment': 'Aufgabe',
-    'Asynchronous After': 'Asynchronous After', // TODO
-    'Asynchronous Before': 'Asynchronous Before', // TODO
-    'Asynchronous Continuations': 'Asynchronous Continuations', // TODO
+    'Asynchronous After': 'Asynchronous After', 
+    'Asynchronous Before': 'Asynchronous Before', 
+    'Asynchronous Continuations': 'Asynchronous Continuations', 
     'Binding': 'Binding',
     'Business Key': 'Business-Key',
     'Business Key Expression': 'Business-Key-Expression',
     'CallActivity Type': 'Call-Activity-Typ',
     'Called Element': 'Aufgerufenes Element',
     'Candidate Groups': 'Mögliche Bearbeiter-Gruppen',
-    'Candidate Starter Configuration': 'Candidate Starter Configuration', // TODO
-    'Candidate Starter Groups': 'Candidate Starter Groups', // TODO
-    'Candidate Starter Users': 'Candidate Starter Users', // TODO
+    'Candidate Starter Configuration': 'Candidate Starter Configuration', 
+    'Candidate Starter Groups': 'Candidate Starter Groups', 
+    'Candidate Starter Users': 'Candidate Starter Users', 
     'Candidate Users': 'Mögliche Bearbeiter',
     'Case Ref': 'Case-Referenz',
     'Category Value': 'Kategorie-Wert',
     'Class': 'Klasse',
     'Collection': 'Collection',
-    'complete': 'abschließen', // TODO
+    'complete': 'abschließen', 
     'Completion Condition': 'Abschlussbedingung',
     'Condition': 'Bedingung',
     'Condition Type': 'Bedingungstyp',
@@ -53,7 +53,7 @@ export default {
     'Connector Id': 'Connector-ID',
     'create': 'erstellen',
     'Custom Fields': 'Benutzerdefinierte Felder',
-    'Custom Fields for scope: ': 'Benutzerdefinierte Felder für Scope', // TODO
+    'Custom Fields for scope: ': 'Benutzerdefinierte Felder für Scope', 
     'Cycle': 'Zyklus',
     'Date': 'Datum',
     'Decision Ref': 'Decision-Referenz',
@@ -71,7 +71,7 @@ export default {
     'Element must have an unique id.': 'Element benötigt eine eindeutige ID',
     'Element Template': 'Element-Template',
     'Element Variable': 'Element-Variable',
-    'end': 'beenden', // TODO
+    'end': 'beenden', 
     'Error': 'Fehler',
     'Error Code': 'Fehler-Code',
     'Error Code Variable': 'Fehler-Code-Variable',
@@ -108,7 +108,7 @@ export default {
     'Id must not contain prefix.': 'ID darf kein Prefix enthalten',
     'Id must not contain spaces.': 'ID darf keine Leerzeichen enthalten',
     'Implementation': 'Implementierung',
-    'Initiator': 'Auslöser', // TODO
+    'Initiator': 'Auslöser', 
     'Inline Script': 'Inline-Skript',
     'In Mapping': 'In-Mapping',
     'Input/Output': 'Input/Output',
@@ -118,7 +118,7 @@ export default {
     'Job Configuration': 'Job-Konfiguration',
     'Job Priority': 'Job-Priorität',
     'Label': 'Label',
-    'latest': 'Neueste', // TODO
+    'latest': 'Neueste', 
     'Link Name': 'Link-Name',
     'List': 'Liste',
     'Listener Id': 'Listener-ID',
@@ -126,8 +126,8 @@ export default {
     'Listener Type': 'Listener-Typ',
     'Local': 'Lokal',
     'Loop Cardinality': 'Schleifen-Kardinalität',
-    'Map': 'Map', // TODO
-    'Map Decision Result': 'Decision-Ergebnis mappen', // TODO
+    'Map': 'Map', 
+    'Map Decision Result': 'Decision-Ergebnis mappen', 
     'Mapping must have a target': 'Mapping benötigt ein Ziel',
     'Mapping must have a value': 'Mapping benötigt einen Wert',
     'Mapping must have a {value}': 'Mapping benötigt ein {value}',
@@ -168,10 +168,10 @@ export default {
     'Specify more than one group as a comma separated list.': 'Geben Sie mehr als eine Gruppe kommagetrennt an.',
     'Specify more than one user as a comma separated list.': 'Geben Sie mehr als einen Nutzer kommagetrennt an.',
     'Specify more than one variable change event as a comma separated list.': 'Geben Sie mehr als ein Variablen-Change-Event kommagetrennt an.',
-    'start': 'starten', // TODO
+    'start': 'starten', 
     'Startable': 'Startbar',
     'String': 'String',
-    'take': 'nehmen', // TODO
+    'take': 'nehmen', 
     'Target': 'Ziel',
     'Target must not contain whitespace': 'Ziel darf keine Leerzeichen enthalten',
     'Tasklist Configuration': 'Tasklisten-Konfiguration',
@@ -180,12 +180,12 @@ export default {
     'Tenant Id': 'Tenant-ID',
     'Text': 'Text',
     'The due date as an EL expression (e.g. ${someDate} or an ISO date (e.g. 2015-06-26T09:54:00)': 'Das Fälligkeitsdatum als EL-Expression (z.B. ${someDate}) oder als ISO-Datum (z.B. 2015-06-26T09:54:00)',
-    'timeout': 'Zeitüberschreitung', // TODO
+    'timeout': 'Zeitüberschreitung', 
     'Timer Definition': 'Timer-Definition',
     'Timer Definition Type': 'Timer-Definition-Typ',
-    'Topic': 'Topic', // TODO
+    'Topic': 'Topic', 
     'Type': 'Typ',
-    'update': 'aktualisieren', // TODO
+    'update': 'aktualisieren', 
     'Validation': 'Validierung',
     'Value': 'Wert',
     'Values': 'Werte',
